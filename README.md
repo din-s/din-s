@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dinesh Sharma=====================================================================================================================================Senior Software Engineer------------------------I have been professionally working on developing E-Learning Management Solutions for US, UK based firms now for more then couple of years.* 🌍  I'm based in Mumbai, India* ✉️  You can contact me at [https://www.linkedin.com/in/din-s-sharma/](mailto:https://www.linkedin.com/in/din-s-sharma/)* 🧠  I'm learning NodeJS, Socket Programming* 🤝  I'm open to collaborating on Web development, Location Based services* ⚡  Apart of coding the WEB, I love MEDITATION \[coding the MIND\] ;P
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dinesh Sharma
+=====================================================================================================================================
+Senior Software Engineer
+------------------------
+I have been professionally working on developing E-Learning Management Solutions for US, UK based firms now for more then couple of years.* 🌍  I'm based in Mumbai, India* ✉️  You can contact me at [https://www.linkedin.com/in/din-s-sharma/](mailto:https://www.linkedin.com/in/din-s-sharma/)* 🧠  I'm learning NodeJS, Socket Programming* 🤝  I'm open to collaborating on Web development, Location Based services* ⚡  Apart of coding the WEB, I love MEDITATION \[coding the MIND\] ;P
 
 ### Skills
 
