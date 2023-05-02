@@ -8,6 +8,7 @@ I have been professionally working on developing E-Learning Management Solutions
 * ✉️  You can contact me at [https://www.linkedin.com/in/din-s-sharma/](mailto:https://www.linkedin.com/in/din-s-sharma/)
 * 🤝  I'm open to collaborating on Web development, Location Based services
 * ⚡  Apart of coding the WEB, I love MEDITATION \[coding the MIND\] ;P
+OPEN FOR FRONTEND DEVELOPMENT ROLES
 
 ### Skills
 
