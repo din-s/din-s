@@ -6,7 +6,6 @@ I have been professionally working on developing E-Learning Management Solutions
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [https://www.linkedin.com/in/din-s-sharma/](mailto:https://www.linkedin.com/in/din-s-sharma/)
-* 🧠  I'm learning NodeJS, Socket Programming
 * 🤝  I'm open to collaborating on Web development, Location Based services
 * ⚡  Apart of coding the WEB, I love MEDITATION \[coding the MIND\] ;P
 
