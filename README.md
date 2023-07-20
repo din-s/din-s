@@ -1,14 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Dinesh Sharma
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dinesh Sharma
 =====================================================================================================================================
-Senior Software Engineer
+A Senior Software Engineer with 3 years of hands-on experience in the industry.
 ------------------------
-I have been professionally working on developing E-Learning Management Solutions for US, UK based firms now for more then couple of years.
+My journey has allowed me to excel in both frontend and backend development, but my heart truly lies in creating captivating frontend experiences that users love.
+
+Throughout my career, I've honed my skills in HTML, CSS, JavaScript, and various modern frontend frameworks like React and Angular. Designing dynamic and user-friendly interfaces is my forte, and I take great pride in crafting seamless user experiences. But that's not all—I also have a solid understanding of backend technologies, databases, and APIs, ensuring that my projects are well-rounded and efficient.
+
+I thrive in collaborative environments and have worked closely with cross-functional teams, following agile methodologies to deliver successful projects. Sharing knowledge and learning from others is something I genuinely enjoy, and I'm always eager to contribute to open-source projects and stay ahead of the latest trends in the industry.
+
+When I'm not coding the programs, you'll find me exploring Meditation [Coding the 🧠] or either delicious cuisines [I love weekend cooking]. If you're looking for a dedicated and versatile Senior Software Developer with a flair for frontend development, I'm ready to make a meaningful impact on your team and projects. Let's create something incredible together!
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [https://www.linkedin.com/in/din-s-sharma/](mailto:https://www.linkedin.com/in/din-s-sharma/) OPEN FOR FRONTEND DEVELOPER ROLES
-* 🤝  I'm open to collaborating on Web development, Location Based services
-* ⚡  Apart of coding the WEB, I love MEDITATION \[coding the MIND\] ;P
+* ✉️  You can contact me at [https://www.linkedin.com/in/din-s-sharma/](mailto:https://www.linkedin.com/in/din-s-sharma/)
 
+---------------------------------------------------------
 
 ### Skills
 
@@ -16,16 +21,12 @@ I have been professionally working on developing E-Learning Management Solutions
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a></p>
 
+---------------------------------------------------------
+
 ### Socials<p align="left"> <a href="https://www.github.com/din-s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/din-s-sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Dins_sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+---------------------------------------------------------
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/din-s"><img src="https://github-readme-stats.vercel.app/api?username=din-s&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="din-s's GitHub stats" /></a>
-
-<a href="http://www.github.com/din-s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=din-s&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/din-s"><img src="https://activity-graph.herokuapp.com/graph?username=din-s&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Contribution
 
 <a href="https://github.com/din-s" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=din-s&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
