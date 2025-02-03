@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dinesh Sharma
 =====================================================================================================================================
-A Senior Software Engineer with over 3.5 years of hands-on experience in the industry.
+A Software Engineer with 4+ years of experience in the industry.
 ------------------------
-My journey has allowed me to excel in both frontend and backend development, but I have loved decoding insights, trends from the numbers and ready explore career in domain of data.
+My journey has allowed me to excel in both frontend and backend development, meanwhile I have found my love towards decoding insights, trends from the numbers and ready explore career in domain of data.
 
 Throughout my career, I've honed my skills in SQL, Power BI, Python, MS Excel, Data Visualization, Data Story telling, Managing multiple deliverables under pressure with keen focus on high standard and quality of the business requirement at the hand. Demonstrating ability to steer through ways to produce quality output despite ambiguity and project deadlines.
 
