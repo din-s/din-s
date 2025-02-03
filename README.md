@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 A Senior Software Engineer with over 3.5 years of hands-on experience in the industry.
 ------------------------
-My journey has allowed me to excel in both frontend and backend development, but my heart truly lies in creating captivating frontend experiences that users love.
+My journey has allowed me to excel in both frontend and backend development, but I have loved decoding insights, trends from the numbers and ready explore career in domain of data.
 
-Throughout my career, I've honed my skills in HTML, CSS, JavaScript, and various modern frontend frameworks like React and Angular. Designing dynamic and user-friendly interfaces is my forte, and I take great pride in crafting seamless user experiences. But that's not all—I also have a solid understanding of backend technologies, databases, and APIs, ensuring that my projects are well-rounded and efficient.
+Throughout my career, I've honed my skills in SQL, Power BI, Python, MS Excel, Data Visualization, Data Story telling, Managing multiple deliverables under pressure with keen focus on high standard and quality of the business requirement at the hand. Demonstrating ability to steer through ways to produce quality output despite ambiguity and project deadlines.
 
 I thrive in collaborative environments and have worked closely with cross-functional teams, following agile methodologies to deliver successful projects. Sharing knowledge and learning from others is something I genuinely enjoy, and I'm always eager to contribute to open-source projects and stay ahead of the latest trends in the industry.
 
