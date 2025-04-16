@@ -14,13 +14,9 @@
 
       let thisForm = this;
 
-      let action = thisForm.getAttribute('action');
+      let action = "https://script.google.com/macros/s/AKfycbz87WwvPJquCFcL8PLRfL1IIdg3AtL9SyAIHzMoUeg_ky7Z22ZmOFiaI-SB1ngC22Gs/exec";
       let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
-      
-      if( ! action ) {
-        displayError(thisForm, 'The form action property is not set!');
-        return;
-      }
+
       thisForm.querySelector('.loading').classList.add('d-block');
       thisForm.querySelector('.error-message').classList.remove('d-block');
       thisForm.querySelector('.sent-message').classList.remove('d-block');
@@ -29,9 +25,10 @@
 
       if ( recaptcha ) {
         if(typeof grecaptcha !== "undefined" ) {
-          grecaptcha.ready(function() {
+          grecaptcha.enterprise.ready(function() {
+            console.log('grecaptcha ready');
             try {
-              grecaptcha.execute(recaptcha, {action: 'php_email_form_submit'})
+              grecaptcha.enterprise.execute(recaptcha, {action})
               .then(token => {
                 formData.set('recaptcha-response', token);
                 php_email_form_submit(thisForm, action, formData);
@@ -53,13 +50,15 @@
     fetch(action, {
       method: 'POST',
       body: formData,
-      headers: {'X-Requested-With': 'XMLHttpRequest'}
+      headers: { "Content-Type": "application/json" }
     })
-    .then(response => {
-      if( response.ok ) {
-        return response.text();
+    .then(response => response.json())
+    .then(data => {
+      if( data.ok || data.success ) {
+        console.log('Form submitted successfully');
+        thisForm.reset();
       } else {
-        throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
+        throw new Error(`${data.status} ${data.statusText} ${data.url}`); 
       }
     })
     .then(data => {
